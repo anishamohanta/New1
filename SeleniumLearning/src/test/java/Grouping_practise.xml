@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <test name="GroupingDemo">
+  <groups>
+  <run>
+    <include name="Car"/>
+  </run>
+  </groups>
+
+    <classes>
+      <class name="poiDemos.GroupAnnotationEx"/>
+    </classes>
+  </test> 
+</suite>

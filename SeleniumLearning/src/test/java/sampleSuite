@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="sampleSuite">
+  <test name="GoogleText">
+    <classes>
+      <class name="poiDemos.GoogleTest"/>
+      </classes>
+  </test>
+   
+   
+   <test name="YahooTest">
+   <classes>
+      <class name="poiDemos.YahooTest"/>
+      </classes>
+  </test>
+   
+</suite> 
